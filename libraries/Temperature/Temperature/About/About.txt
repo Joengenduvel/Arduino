@@ -1,0 +1,15 @@
+ 	
+	embedXcode
+	embedXcode+
+	----------------------------------
+	Embedded Computing on Xcode 4 & 5
+	
+	
+	© Rei VILO, 2010-2013
+	All rights reserved	
+	http://embedXcode.weebly.com/
+	
+	
+embedXcode  • Sep 20, 2013 release 107 • Support for Xcode 5 on OS X 10.8
+embedXcode+ • Sep 20, 2013 release 107 • Support for Xcode 5 on OS X 10.8
+	
